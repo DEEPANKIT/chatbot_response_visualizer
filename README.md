@@ -38,10 +38,12 @@ python chat_analyzer.py
 
 The script generates the following files:
 
+- `common_words_analysis.png`: lists the frequency histogram of top 20 most commonly occuring words
+- `multi_session_interation_frequency.png`: interaction frequency over time across different sessions
 - `token_analysis.png`: Visualizations of token usage patterns
 - `interaction_analysis.png`: Analysis of interaction patterns
 - `content_analysis.png`: Content analysis visualizations
-- `dashboard.html`: Interactive dashboard for comparative analysis
+
 
 ## JSON File Format
 
